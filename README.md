@@ -21,8 +21,8 @@ Testing: JUnit 5, Mockito, Postman
 
 Setup Instructions
 
-Clone the Repository:git clone <your-repo-url>
-cd inventory-management-system
+Clone the Repository:git clone https://github.com/kalkerisharat/Inventory-Mangement-System-API.git
+
 
 
 Prerequisites:
@@ -147,4 +147,4 @@ Support persistent database (e.g., PostgreSQL).
 Add filtering for low-stock endpoint (e.g., by category).
 
 Contact
-For questions or feedback, reach out to [your-name] at [your-email] or [your-GitHub-profile].
+mail - kalkerisherry@gmail.com
